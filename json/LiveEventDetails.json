@@ -1,0 +1,2939 @@
+[
+  {
+    "item": [
+      {
+        "eventID": "962193",
+        "eventTitle": "live betting away 2 at live betting home 2",
+        "eventStartDateTime": "2018-10-20T00:00:00-04:00",
+        "isCircled": "false",
+        "eventContestants": [
+          {
+            "contestantDisplayName": "live betting away 2",
+            "isHomeTeam": "false",
+            "lines": [
+              {
+                "lineID": "451486",
+                "lineType": "8",
+                "isLineActive": "true",
+                "odds": "180"
+              },
+              {
+                "lineID": "711572",
+                "lineType": "9",
+                "isLineActive": "true",
+                "odds": "180",
+                "pointSpreadValue": "2.0",
+                "alternateLineID": "0"
+              },
+              {
+                "lineID": "6435",
+                "lineType": "25",
+                "isLineActive": "true",
+                "odds": "300",
+                "lowerMargin": "2",
+                "upperMargin": "2"
+              },
+              {
+                "lineID": "6436",
+                "lineType": "25",
+                "isLineActive": "true",
+                "odds": "500",
+                "lowerMargin": "3",
+                "upperMargin": "3"
+              },
+              {
+                "lineID": "6434",
+                "lineType": "25",
+                "isLineActive": "true",
+                "odds": "200",
+                "lowerMargin": "1",
+                "upperMargin": "1"
+              },
+              {
+                "lineID": "6433",
+                "lineType": "25",
+                "isLineActive": "true",
+                "odds": "180",
+                "lowerMargin": "0",
+                "upperMargin": "0"
+              }
+            ]
+          },
+          {
+            "contestantDisplayName": "live betting home 2",
+            "isHomeTeam": "true",
+            "lines": [
+              {
+                "lineID": "451487",
+                "lineType": "8",
+                "isLineActive": "true",
+                "odds": "-120"
+              },
+              {
+                "lineID": "711573",
+                "lineType": "9",
+                "isLineActive": "true",
+                "odds": "-130",
+                "pointSpreadValue": "-2.0",
+                "alternateLineID": "0"
+              },
+              {
+                "lineID": "6438",
+                "lineType": "25",
+                "isLineActive": "true",
+                "odds": "210",
+                "lowerMargin": "1",
+                "upperMargin": "1"
+              },
+              {
+                "lineID": "6439",
+                "lineType": "25",
+                "isLineActive": "true",
+                "odds": "450",
+                "lowerMargin": "2",
+                "upperMargin": "2"
+              },
+              {
+                "lineID": "6440",
+                "lineType": "25",
+                "isLineActive": "true",
+                "odds": "700",
+                "lowerMargin": "3",
+                "upperMargin": "3"
+              },
+              {
+                "lineID": "6437",
+                "lineType": "25",
+                "isLineActive": "true",
+                "odds": "100",
+                "lowerMargin": "0",
+                "upperMargin": "0"
+              }
+            ]
+          }
+        ],
+        "lines": [
+          {
+            "lineID": "382769",
+            "lineType": "2",
+            "isLineActive": "true",
+            "odds": "200",
+            "overLineValue": "5.0",
+            "alternateLineID": "0"
+          },
+          {
+            "lineID": "382769",
+            "lineType": "3",
+            "isLineActive": "true",
+            "odds": "-120",
+            "underLineValue": "5.0",
+            "alternateLineID": "0"
+          },
+          {
+            "lineID": "2",
+            "lineType": "24",
+            "isLineActive": "true",
+            "odds": "180",
+            "lowerRange": "0",
+            "upperRange": "1"
+          },
+          {
+            "lineID": "3",
+            "lineType": "24",
+            "isLineActive": "true",
+            "odds": "280",
+            "lowerRange": "2",
+            "upperRange": "2"
+          },
+          {
+            "lineID": "4",
+            "lineType": "24",
+            "isLineActive": "true",
+            "odds": "380",
+            "lowerRange": "3"
+          },
+          {
+            "lineID": "441",
+            "lineType": "26",
+            "isLineActive": "true",
+            "odds": "200",
+            "threeWayPointSpreadValue": "-2.0",
+            "threeWayPointSpreadBetType": "2"
+          },
+          {
+            "lineID": "440",
+            "lineType": "26",
+            "isLineActive": "true",
+            "odds": "180",
+            "threeWayPointSpreadValue": "2.0",
+            "threeWayPointSpreadBetType": "1"
+          },
+          {
+            "lineID": "439",
+            "lineType": "26",
+            "isLineActive": "true",
+            "odds": "160",
+            "threeWayPointSpreadValue": "-2.0",
+            "threeWayPointSpreadBetType": "0"
+          },
+          {
+            "lineID": "438",
+            "lineType": "26",
+            "isLineActive": "true",
+            "odds": "180",
+            "threeWayPointSpreadValue": "-1.0",
+            "threeWayPointSpreadBetType": "2"
+          },
+          {
+            "lineID": "437",
+            "lineType": "26",
+            "isLineActive": "true",
+            "odds": "160",
+            "threeWayPointSpreadValue": "1.0",
+            "threeWayPointSpreadBetType": "1"
+          },
+          {
+            "lineID": "436",
+            "lineType": "26",
+            "isLineActive": "true",
+            "odds": "180",
+            "threeWayPointSpreadValue": "-1.0",
+            "threeWayPointSpreadBetType": "0"
+          }
+        ]
+      },
+      {
+        "eventID": "1024544",
+        "eventTitle": "NCAA ingame away 2 at NCAA ingame home 2",
+        "eventStartDateTime": "2017-10-10T00:00:00-04:00",
+        "isCircled": "false",
+        "eventContestants": [
+          {
+            "contestantDisplayName": "NCAA ingame away 2",
+            "isHomeTeam": "false",
+            "lines": [
+              {
+                "lineID": "460162",
+                "lineType": "8",
+                "isLineActive": "true",
+                "odds": "200"
+              },
+              {
+                "lineID": "744822",
+                "lineType": "9",
+                "isLineActive": "true",
+                "odds": "200",
+                "pointSpreadValue": "10.0",
+                "alternateLineID": "0",
+                "handicapPrice": [
+                  {
+                    "handicap": "10.5",
+                    "handicapOdds": "190"
+                  },
+                  {
+                    "handicap": "11.0",
+                    "handicapOdds": "180"
+                  },
+                  {
+                    "handicap": "11.5",
+                    "handicapOdds": "165"
+                  },
+                  {
+                    "handicap": "12.0",
+                    "handicapOdds": "150"
+                  },
+                  {
+                    "handicap": "12.5",
+                    "handicapOdds": "135"
+                  },
+                  {
+                    "handicap": "13.0",
+                    "handicapOdds": "120"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "contestantDisplayName": "NCAA ingame home 2",
+            "isHomeTeam": "true",
+            "lines": [
+              {
+                "lineID": "460163",
+                "lineType": "8",
+                "isLineActive": "true",
+                "odds": "-130"
+              },
+              {
+                "lineID": "744823",
+                "lineType": "9",
+                "isLineActive": "true",
+                "odds": "-130",
+                "pointSpreadValue": "-10.0",
+                "alternateLineID": "0",
+                "handicapPrice": [
+                  {
+                    "handicap": "-9.5",
+                    "handicapOdds": "-140"
+                  },
+                  {
+                    "handicap": "-9.0",
+                    "handicapOdds": "-150"
+                  },
+                  {
+                    "handicap": "-8.5",
+                    "handicapOdds": "-165"
+                  },
+                  {
+                    "handicap": "-8.0",
+                    "handicapOdds": "-180"
+                  },
+                  {
+                    "handicap": "-7.5",
+                    "handicapOdds": "-195"
+                  },
+                  {
+                    "handicap": "-7.0",
+                    "handicapOdds": "-210"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "lines": [
+          {
+            "lineID": "406585",
+            "lineType": "2",
+            "isLineActive": "true",
+            "odds": "180",
+            "overLineValue": "200.0",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "199.5",
+                "handicapOdds": "170"
+              },
+              {
+                "handicap": "199.0",
+                "handicapOdds": "160"
+              },
+              {
+                "handicap": "198.5",
+                "handicapOdds": "145"
+              },
+              {
+                "handicap": "198.0",
+                "handicapOdds": "130"
+              },
+              {
+                "handicap": "197.5",
+                "handicapOdds": "115"
+              },
+              {
+                "handicap": "197.0",
+                "handicapOdds": "100"
+              }
+            ]
+          },
+          {
+            "lineID": "406504",
+            "lineType": "3",
+            "isLineActive": "true",
+            "odds": "-120",
+            "underLineValue": "200.0",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "200.5",
+                "handicapOdds": "-130"
+              },
+              {
+                "handicap": "201.0",
+                "handicapOdds": "-140"
+              },
+              {
+                "handicap": "201.5",
+                "handicapOdds": "-155"
+              },
+              {
+                "handicap": "202.0",
+                "handicapOdds": "-170"
+              },
+              {
+                "handicap": "202.5",
+                "handicapOdds": "-185"
+              },
+              {
+                "handicap": "203.0",
+                "handicapOdds": "-200"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "eventID": "1107715",
+        "eventTitle": "Houston Texans at Indianapolis Colts",
+        "eventStartDateTime": "2017-12-31T13:00:00-05:00",
+        "isCircled": "false",
+        "eventContestants": [
+          {
+            "contestantDisplayName": "Houston Texans",
+            "isHomeTeam": "false",
+            "rotationNumber": "9315"
+          },
+          {
+            "contestantDisplayName": "Indianapolis Colts",
+            "isHomeTeam": "true",
+            "rotationNumber": "9316"
+          }
+        ]
+      },
+      {
+        "eventID": "1115444",
+        "eventTitle": "Cs Northridge at Hawaii",
+        "eventStartDateTime": "2018-02-11T00:00:00-05:00",
+        "isCircled": "false",
+        "eventContestants": [
+          {
+            "contestantDisplayName": "Cs Northridge",
+            "isHomeTeam": "false",
+            "rotationNumber": "9685"
+          },
+          {
+            "contestantDisplayName": "Hawaii",
+            "isHomeTeam": "true",
+            "rotationNumber": "9686"
+          }
+        ]
+      },
+      {
+        "eventID": "1115563",
+        "eventTitle": "Colorado Avalanche at Buffalo Sabres",
+        "eventStartDateTime": "2018-02-11T19:05:00-05:00",
+        "isCircled": "false",
+        "eventContestants": [
+          {
+            "contestantDisplayName": "Colorado Avalanche",
+            "isHomeTeam": "false",
+            "rotationNumber": "9009"
+          },
+          {
+            "contestantDisplayName": "Buffalo Sabres",
+            "isHomeTeam": "true",
+            "rotationNumber": "9010"
+          }
+        ]
+      },
+      {
+        "eventID": "1115564",
+        "eventTitle": "Boston Bruins at New Jersey Devils",
+        "eventStartDateTime": "2018-02-11T19:05:00-05:00",
+        "isCircled": "false",
+        "eventContestants": [
+          {
+            "contestantDisplayName": "Boston Bruins",
+            "isHomeTeam": "false",
+            "rotationNumber": "9011"
+          },
+          {
+            "contestantDisplayName": "New Jersey Devils",
+            "isHomeTeam": "true",
+            "rotationNumber": "9012"
+          }
+        ]
+      },
+      {
+        "eventID": "1115565",
+        "eventTitle": "Calgary Flames at New York Islanders",
+        "eventStartDateTime": "2018-02-11T19:05:00-05:00",
+        "isCircled": "false",
+        "eventContestants": [
+          {
+            "contestantDisplayName": "Calgary Flames",
+            "isHomeTeam": "false",
+            "rotationNumber": "9013"
+          },
+          {
+            "contestantDisplayName": "New York Islanders",
+            "isHomeTeam": "true",
+            "rotationNumber": "9014"
+          }
+        ]
+      },
+      {
+        "eventID": "1115566",
+        "eventTitle": "San Jose Sharks at Anaheim Ducks",
+        "eventStartDateTime": "2018-02-11T20:05:00-05:00",
+        "isCircled": "false",
+        "eventContestants": [
+          {
+            "contestantDisplayName": "San Jose Sharks",
+            "isHomeTeam": "false",
+            "rotationNumber": "9015"
+          },
+          {
+            "contestantDisplayName": "Anaheim Ducks",
+            "isHomeTeam": "true",
+            "rotationNumber": "9016"
+          }
+        ]
+      },
+      {
+        "eventID": "1115567",
+        "eventTitle": "Philadelphia Flyers at Vegas Golden Knights",
+        "eventStartDateTime": "2018-02-11T20:05:00-05:00",
+        "isCircled": "false",
+        "eventContestants": [
+          {
+            "contestantDisplayName": "Philadelphia Flyers",
+            "isHomeTeam": "false",
+            "rotationNumber": "9017"
+          },
+          {
+            "contestantDisplayName": "Vegas Golden Knights",
+            "isHomeTeam": "true",
+            "rotationNumber": "9018"
+          }
+        ]
+      },
+      {
+        "eventID": "1115568",
+        "eventTitle": "Wake Forest at Syracuse",
+        "eventStartDateTime": "2018-02-11T13:00:00-05:00",
+        "isCircled": "false",
+        "eventContestants": [
+          {
+            "contestantDisplayName": "Wake Forest",
+            "isHomeTeam": "false",
+            "rotationNumber": "9817"
+          },
+          {
+            "contestantDisplayName": "Syracuse",
+            "isHomeTeam": "true",
+            "rotationNumber": "9818"
+          }
+        ]
+      },
+      {
+        "eventID": "1115569",
+        "eventTitle": "Michigan at Wisconsin",
+        "eventStartDateTime": "2018-02-11T13:00:00-05:00",
+        "isCircled": "false",
+        "eventContestants": [
+          {
+            "contestantDisplayName": "Michigan",
+            "isHomeTeam": "false",
+            "rotationNumber": "9819"
+          },
+          {
+            "contestantDisplayName": "Wisconsin",
+            "isHomeTeam": "true",
+            "rotationNumber": "9820"
+          }
+        ]
+      },
+      {
+        "eventID": "1115570",
+        "eventTitle": "Louisville at Pittsburgh",
+        "eventStartDateTime": "2018-02-11T13:00:00-05:00",
+        "isCircled": "false",
+        "eventContestants": [
+          {
+            "contestantDisplayName": "Louisville",
+            "isHomeTeam": "false",
+            "rotationNumber": "9821"
+          },
+          {
+            "contestantDisplayName": "Pittsburgh",
+            "isHomeTeam": "true",
+            "rotationNumber": "9822"
+          }
+        ]
+      },
+      {
+        "eventID": "1115571",
+        "eventTitle": "Central Florida at Memphis",
+        "eventStartDateTime": "2018-02-11T16:00:00-05:00",
+        "isCircled": "false",
+        "eventContestants": [
+          {
+            "contestantDisplayName": "Central Florida",
+            "isHomeTeam": "false",
+            "rotationNumber": "9823"
+          },
+          {
+            "contestantDisplayName": "Memphis",
+            "isHomeTeam": "true",
+            "rotationNumber": "9824"
+          }
+        ]
+      },
+      {
+        "eventID": "1115572",
+        "eventTitle": "Illinois State at Valparaiso",
+        "eventStartDateTime": "2018-02-11T16:00:00-05:00",
+        "isCircled": "false",
+        "eventContestants": [
+          {
+            "contestantDisplayName": "Illinois State",
+            "isHomeTeam": "false",
+            "rotationNumber": "9827"
+          },
+          {
+            "contestantDisplayName": "Valparaiso",
+            "isHomeTeam": "true",
+            "rotationNumber": "9828"
+          }
+        ]
+      },
+      {
+        "eventID": "1115573",
+        "eventTitle": "Stanford at Colorado",
+        "eventStartDateTime": "2018-02-11T16:00:00-05:00",
+        "isCircled": "false",
+        "eventContestants": [
+          {
+            "contestantDisplayName": "Stanford",
+            "isHomeTeam": "false",
+            "rotationNumber": "9829"
+          },
+          {
+            "contestantDisplayName": "Colorado",
+            "isHomeTeam": "true",
+            "rotationNumber": "9830"
+          }
+        ]
+      },
+      {
+        "eventID": "1115574",
+        "eventTitle": "Cincinnati at Southern Methodist Mustangs",
+        "eventStartDateTime": "2018-02-11T16:00:00-05:00",
+        "isCircled": "false",
+        "eventContestants": [
+          {
+            "contestantDisplayName": "Cincinnati",
+            "isHomeTeam": "false",
+            "rotationNumber": "9831"
+          },
+          {
+            "contestantDisplayName": "Southern Methodist",
+            "isHomeTeam": "true",
+            "rotationNumber": "9832"
+          }
+        ]
+      },
+      {
+        "eventID": "1115575",
+        "eventTitle": "Duke at Georgia Tech",
+        "eventStartDateTime": "2018-02-11T18:00:00-05:00",
+        "isCircled": "false",
+        "eventContestants": [
+          {
+            "contestantDisplayName": "Duke",
+            "isHomeTeam": "false",
+            "rotationNumber": "9835"
+          },
+          {
+            "contestantDisplayName": "Georgia Tech",
+            "isHomeTeam": "true",
+            "rotationNumber": "9836"
+          }
+        ]
+      },
+      {
+        "eventID": "1115576",
+        "eventTitle": "Loyola Maryland at Lafayette",
+        "eventStartDateTime": "2018-02-11T12:00:00-05:00",
+        "isCircled": "false",
+        "eventContestants": [
+          {
+            "contestantDisplayName": "Loyola Maryland",
+            "isHomeTeam": "false",
+            "rotationNumber": "9841"
+          },
+          {
+            "contestantDisplayName": "Lafayette",
+            "isHomeTeam": "true",
+            "rotationNumber": "9842"
+          }
+        ]
+      },
+      {
+        "eventID": "1115577",
+        "eventTitle": "Wagner at Fairleigh Dickinson",
+        "eventStartDateTime": "2018-02-11T14:00:00-05:00",
+        "isCircled": "false",
+        "eventContestants": [
+          {
+            "contestantDisplayName": "Wagner",
+            "isHomeTeam": "false",
+            "rotationNumber": "9843"
+          },
+          {
+            "contestantDisplayName": "Fairleigh Dickinson",
+            "isHomeTeam": "true",
+            "rotationNumber": "9844"
+          }
+        ]
+      },
+      {
+        "eventID": "1115578",
+        "eventTitle": "Tulane at Houston",
+        "eventStartDateTime": "2018-02-11T18:00:00-05:00",
+        "isCircled": "false",
+        "eventContestants": [
+          {
+            "contestantDisplayName": "Tulane",
+            "isHomeTeam": "false",
+            "rotationNumber": "9833"
+          },
+          {
+            "contestantDisplayName": "Houston",
+            "isHomeTeam": "true",
+            "rotationNumber": "9834"
+          }
+        ]
+      },
+      {
+        "eventID": "1115579",
+        "eventTitle": "Penn State at Illinois",
+        "eventStartDateTime": "2018-02-11T19:00:00-05:00",
+        "isCircled": "false",
+        "eventContestants": [
+          {
+            "contestantDisplayName": "Penn State",
+            "isHomeTeam": "false",
+            "rotationNumber": "9837"
+          },
+          {
+            "contestantDisplayName": "Illinois",
+            "isHomeTeam": "true",
+            "rotationNumber": "9838"
+          }
+        ]
+      },
+      {
+        "eventID": "1115580",
+        "eventTitle": "Washington State at Oregon",
+        "eventStartDateTime": "2018-02-11T20:00:00-05:00",
+        "isCircled": "false",
+        "eventContestants": [
+          {
+            "contestantDisplayName": "Washington State",
+            "isHomeTeam": "false",
+            "rotationNumber": "9839"
+          },
+          {
+            "contestantDisplayName": "Oregon",
+            "isHomeTeam": "true",
+            "rotationNumber": "9840"
+          }
+        ]
+      },
+      {
+        "eventID": "1117587",
+        "eventTitle": "Seton Hall at Providence",
+        "eventStartDateTime": "2018-02-21T18:30:00-05:00",
+        "isCircled": "false",
+        "eventContestants": [
+          {
+            "contestantDisplayName": "Seton Hall",
+            "isHomeTeam": "false",
+            "rotationNumber": "9703",
+            "lines": [
+              {
+                "lineID": "507826",
+                "lineType": "8",
+                "isLineActive": "false",
+                "odds": "-520"
+              },
+              {
+                "lineID": "1016235",
+                "lineType": "9",
+                "isLineActive": "false",
+                "odds": "-135",
+                "pointSpreadValue": "-4.5",
+                "alternateLineID": "0",
+                "handicapPrice": [
+                  {
+                    "handicap": "-4.0",
+                    "handicapOdds": "-145"
+                  },
+                  {
+                    "handicap": "-3.5",
+                    "handicapOdds": "-155"
+                  },
+                  {
+                    "handicap": "-3.0",
+                    "handicapOdds": "-170"
+                  },
+                  {
+                    "handicap": "-2.5",
+                    "handicapOdds": "-185"
+                  },
+                  {
+                    "handicap": "-2.0",
+                    "handicapOdds": "-200"
+                  },
+                  {
+                    "handicap": "-1.5",
+                    "handicapOdds": "-215"
+                  }
+                ]
+              },
+              {
+                "lineID": "1016237",
+                "lineType": "9",
+                "isLineActive": "false",
+                "odds": "-135",
+                "pointSpreadValue": "-5.5",
+                "alternateLineID": "0",
+                "handicapPrice": [
+                  {
+                    "handicap": "-5.0",
+                    "handicapOdds": "-145"
+                  },
+                  {
+                    "handicap": "-4.5",
+                    "handicapOdds": "-155"
+                  },
+                  {
+                    "handicap": "-4.0",
+                    "handicapOdds": "-170"
+                  },
+                  {
+                    "handicap": "-3.5",
+                    "handicapOdds": "-185"
+                  },
+                  {
+                    "handicap": "-3.0",
+                    "handicapOdds": "-200"
+                  },
+                  {
+                    "handicap": "-2.5",
+                    "handicapOdds": "-215"
+                  }
+                ]
+              },
+              {
+                "lineID": "1016321",
+                "lineType": "9",
+                "isLineActive": "false",
+                "odds": "-135",
+                "pointSpreadValue": "-10.5",
+                "alternateLineID": "0",
+                "handicapPrice": [
+                  {
+                    "handicap": "-10.0",
+                    "handicapOdds": "-145"
+                  },
+                  {
+                    "handicap": "-9.5",
+                    "handicapOdds": "-155"
+                  },
+                  {
+                    "handicap": "-9.0",
+                    "handicapOdds": "-170"
+                  },
+                  {
+                    "handicap": "-8.5",
+                    "handicapOdds": "-185"
+                  },
+                  {
+                    "handicap": "-8.0",
+                    "handicapOdds": "-200"
+                  },
+                  {
+                    "handicap": "-7.5",
+                    "handicapOdds": "-215"
+                  }
+                ]
+              },
+              {
+                "lineID": "1016319",
+                "lineType": "9",
+                "isLineActive": "false",
+                "odds": "-135",
+                "pointSpreadValue": "-9.5",
+                "alternateLineID": "0",
+                "handicapPrice": [
+                  {
+                    "handicap": "-9.0",
+                    "handicapOdds": "-145"
+                  },
+                  {
+                    "handicap": "-8.5",
+                    "handicapOdds": "-155"
+                  },
+                  {
+                    "handicap": "-8.0",
+                    "handicapOdds": "-170"
+                  },
+                  {
+                    "handicap": "-7.5",
+                    "handicapOdds": "-185"
+                  },
+                  {
+                    "handicap": "-7.0",
+                    "handicapOdds": "-200"
+                  },
+                  {
+                    "handicap": "-6.5",
+                    "handicapOdds": "-215"
+                  }
+                ]
+              },
+              {
+                "lineID": "1016307",
+                "lineType": "9",
+                "isLineActive": "false",
+                "odds": "-135",
+                "pointSpreadValue": "-8.5",
+                "alternateLineID": "0",
+                "handicapPrice": [
+                  {
+                    "handicap": "-8.0",
+                    "handicapOdds": "-145"
+                  },
+                  {
+                    "handicap": "-7.5",
+                    "handicapOdds": "-155"
+                  },
+                  {
+                    "handicap": "-7.0",
+                    "handicapOdds": "-170"
+                  },
+                  {
+                    "handicap": "-6.5",
+                    "handicapOdds": "-185"
+                  },
+                  {
+                    "handicap": "-6.0",
+                    "handicapOdds": "-200"
+                  },
+                  {
+                    "handicap": "-5.5",
+                    "handicapOdds": "-215"
+                  }
+                ]
+              },
+              {
+                "lineID": "1016249",
+                "lineType": "9",
+                "isLineActive": "false",
+                "odds": "-135",
+                "pointSpreadValue": "-6.5",
+                "alternateLineID": "0",
+                "handicapPrice": [
+                  {
+                    "handicap": "-6.0",
+                    "handicapOdds": "-145"
+                  },
+                  {
+                    "handicap": "-5.5",
+                    "handicapOdds": "-155"
+                  },
+                  {
+                    "handicap": "-5.0",
+                    "handicapOdds": "-170"
+                  },
+                  {
+                    "handicap": "-4.5",
+                    "handicapOdds": "-185"
+                  },
+                  {
+                    "handicap": "-4.0",
+                    "handicapOdds": "-200"
+                  },
+                  {
+                    "handicap": "-3.5",
+                    "handicapOdds": "-215"
+                  }
+                ]
+              },
+              {
+                "lineID": "1016239",
+                "lineType": "9",
+                "isLineActive": "false",
+                "odds": "-135",
+                "pointSpreadValue": "-7.5",
+                "alternateLineID": "0",
+                "handicapPrice": [
+                  {
+                    "handicap": "-7.0",
+                    "handicapOdds": "-145"
+                  },
+                  {
+                    "handicap": "-6.5",
+                    "handicapOdds": "-155"
+                  },
+                  {
+                    "handicap": "-6.0",
+                    "handicapOdds": "-170"
+                  },
+                  {
+                    "handicap": "-5.5",
+                    "handicapOdds": "-185"
+                  },
+                  {
+                    "handicap": "-5.0",
+                    "handicapOdds": "-200"
+                  },
+                  {
+                    "handicap": "-4.5",
+                    "handicapOdds": "-215"
+                  }
+                ]
+              },
+              {
+                "lineID": "1016223",
+                "lineType": "9",
+                "isLineActive": "false",
+                "odds": "-135",
+                "pointSpreadValue": "-3.5",
+                "alternateLineID": "0",
+                "handicapPrice": [
+                  {
+                    "handicap": "-3.0",
+                    "handicapOdds": "-145"
+                  },
+                  {
+                    "handicap": "-2.5",
+                    "handicapOdds": "-155"
+                  },
+                  {
+                    "handicap": "-2.0",
+                    "handicapOdds": "-170"
+                  },
+                  {
+                    "handicap": "-1.5",
+                    "handicapOdds": "-185"
+                  },
+                  {
+                    "handicap": "-1.0",
+                    "handicapOdds": "-200"
+                  },
+                  {
+                    "handicap": "-0.5",
+                    "handicapOdds": "-215"
+                  }
+                ]
+              },
+              {
+                "lineID": "1016155",
+                "lineType": "9",
+                "isLineActive": "false",
+                "odds": "-125",
+                "pointSpreadValue": "3.5",
+                "alternateLineID": "0",
+                "handicapPrice": [
+                  {
+                    "handicap": "4.0",
+                    "handicapOdds": "-135"
+                  },
+                  {
+                    "handicap": "4.5",
+                    "handicapOdds": "-145"
+                  },
+                  {
+                    "handicap": "5.0",
+                    "handicapOdds": "-160"
+                  },
+                  {
+                    "handicap": "5.5",
+                    "handicapOdds": "-175"
+                  },
+                  {
+                    "handicap": "6.0",
+                    "handicapOdds": "-190"
+                  },
+                  {
+                    "handicap": "6.5",
+                    "handicapOdds": "-205"
+                  }
+                ]
+              },
+              {
+                "lineID": "1016133",
+                "lineType": "9",
+                "isLineActive": "false",
+                "odds": "-125",
+                "pointSpreadValue": "1.5",
+                "alternateLineID": "0",
+                "handicapPrice": [
+                  {
+                    "handicap": "2.0",
+                    "handicapOdds": "-135"
+                  },
+                  {
+                    "handicap": "2.5",
+                    "handicapOdds": "-145"
+                  },
+                  {
+                    "handicap": "3.0",
+                    "handicapOdds": "-160"
+                  },
+                  {
+                    "handicap": "3.5",
+                    "handicapOdds": "-175"
+                  },
+                  {
+                    "handicap": "4.0",
+                    "handicapOdds": "-190"
+                  },
+                  {
+                    "handicap": "4.5",
+                    "handicapOdds": "-205"
+                  }
+                ]
+              },
+              {
+                "lineID": "1016141",
+                "lineType": "9",
+                "isLineActive": "false",
+                "odds": "105",
+                "pointSpreadValue": "-1.5",
+                "alternateLineID": "0",
+                "handicapPrice": [
+                  {
+                    "handicap": "-1.0",
+                    "handicapOdds": "-105"
+                  },
+                  {
+                    "handicap": "-0.5",
+                    "handicapOdds": "-115"
+                  },
+                  {
+                    "handicap": "0.0",
+                    "handicapOdds": "-130"
+                  },
+                  {
+                    "handicap": "0.5",
+                    "handicapOdds": "-145"
+                  },
+                  {
+                    "handicap": "1.0",
+                    "handicapOdds": "-160"
+                  },
+                  {
+                    "handicap": "1.5",
+                    "handicapOdds": "-175"
+                  }
+                ]
+              },
+              {
+                "lineID": "1016139",
+                "lineType": "9",
+                "isLineActive": "false",
+                "odds": "-130",
+                "pointSpreadValue": "-2.5",
+                "alternateLineID": "0",
+                "handicapPrice": [
+                  {
+                    "handicap": "-2.0",
+                    "handicapOdds": "-140"
+                  },
+                  {
+                    "handicap": "-1.5",
+                    "handicapOdds": "-150"
+                  },
+                  {
+                    "handicap": "-1.0",
+                    "handicapOdds": "-165"
+                  },
+                  {
+                    "handicap": "-0.5",
+                    "handicapOdds": "-180"
+                  },
+                  {
+                    "handicap": "0.0",
+                    "handicapOdds": "-195"
+                  },
+                  {
+                    "handicap": "0.5",
+                    "handicapOdds": "-210"
+                  }
+                ]
+              },
+              {
+                "lineID": "1016135",
+                "lineType": "9",
+                "isLineActive": "false",
+                "odds": "-125",
+                "pointSpreadValue": "2.5",
+                "alternateLineID": "0",
+                "handicapPrice": [
+                  {
+                    "handicap": "3.0",
+                    "handicapOdds": "-135"
+                  },
+                  {
+                    "handicap": "3.5",
+                    "handicapOdds": "-145"
+                  },
+                  {
+                    "handicap": "4.0",
+                    "handicapOdds": "-160"
+                  },
+                  {
+                    "handicap": "4.5",
+                    "handicapOdds": "-175"
+                  },
+                  {
+                    "handicap": "5.0",
+                    "handicapOdds": "-190"
+                  },
+                  {
+                    "handicap": "5.5",
+                    "handicapOdds": "-205"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "contestantDisplayName": "Providence",
+            "isHomeTeam": "true",
+            "rotationNumber": "9704",
+            "lines": [
+              {
+                "lineID": "507827",
+                "lineType": "8",
+                "isLineActive": "false",
+                "odds": "320"
+              },
+              {
+                "lineID": "1016322",
+                "lineType": "9",
+                "isLineActive": "false",
+                "odds": "-105",
+                "pointSpreadValue": "10.5",
+                "alternateLineID": "0",
+                "handicapPrice": [
+                  {
+                    "handicap": "11.0",
+                    "handicapOdds": "-115"
+                  },
+                  {
+                    "handicap": "11.5",
+                    "handicapOdds": "-125"
+                  },
+                  {
+                    "handicap": "12.0",
+                    "handicapOdds": "-140"
+                  },
+                  {
+                    "handicap": "12.5",
+                    "handicapOdds": "-155"
+                  },
+                  {
+                    "handicap": "13.0",
+                    "handicapOdds": "-170"
+                  },
+                  {
+                    "handicap": "13.5",
+                    "handicapOdds": "-185"
+                  }
+                ]
+              },
+              {
+                "lineID": "1016320",
+                "lineType": "9",
+                "isLineActive": "false",
+                "odds": "-105",
+                "pointSpreadValue": "9.5",
+                "alternateLineID": "0",
+                "handicapPrice": [
+                  {
+                    "handicap": "10.0",
+                    "handicapOdds": "-115"
+                  },
+                  {
+                    "handicap": "10.5",
+                    "handicapOdds": "-125"
+                  },
+                  {
+                    "handicap": "11.0",
+                    "handicapOdds": "-140"
+                  },
+                  {
+                    "handicap": "11.5",
+                    "handicapOdds": "-155"
+                  },
+                  {
+                    "handicap": "12.0",
+                    "handicapOdds": "-170"
+                  },
+                  {
+                    "handicap": "12.5",
+                    "handicapOdds": "-185"
+                  }
+                ]
+              },
+              {
+                "lineID": "1016308",
+                "lineType": "9",
+                "isLineActive": "false",
+                "odds": "-105",
+                "pointSpreadValue": "8.5",
+                "alternateLineID": "0",
+                "handicapPrice": [
+                  {
+                    "handicap": "9.0",
+                    "handicapOdds": "-115"
+                  },
+                  {
+                    "handicap": "9.5",
+                    "handicapOdds": "-125"
+                  },
+                  {
+                    "handicap": "10.0",
+                    "handicapOdds": "-140"
+                  },
+                  {
+                    "handicap": "10.5",
+                    "handicapOdds": "-155"
+                  },
+                  {
+                    "handicap": "11.0",
+                    "handicapOdds": "-170"
+                  },
+                  {
+                    "handicap": "11.5",
+                    "handicapOdds": "-185"
+                  }
+                ]
+              },
+              {
+                "lineID": "1016142",
+                "lineType": "9",
+                "isLineActive": "false",
+                "odds": "-145",
+                "pointSpreadValue": "1.5",
+                "alternateLineID": "0",
+                "handicapPrice": [
+                  {
+                    "handicap": "2.0",
+                    "handicapOdds": "-155"
+                  },
+                  {
+                    "handicap": "2.5",
+                    "handicapOdds": "-165"
+                  },
+                  {
+                    "handicap": "3.0",
+                    "handicapOdds": "-180"
+                  },
+                  {
+                    "handicap": "3.5",
+                    "handicapOdds": "-195"
+                  },
+                  {
+                    "handicap": "4.0",
+                    "handicapOdds": "-210"
+                  },
+                  {
+                    "handicap": "4.5",
+                    "handicapOdds": "-225"
+                  }
+                ]
+              },
+              {
+                "lineID": "1016250",
+                "lineType": "9",
+                "isLineActive": "false",
+                "odds": "-105",
+                "pointSpreadValue": "6.5",
+                "alternateLineID": "0",
+                "handicapPrice": [
+                  {
+                    "handicap": "7.0",
+                    "handicapOdds": "-115"
+                  },
+                  {
+                    "handicap": "7.5",
+                    "handicapOdds": "-125"
+                  },
+                  {
+                    "handicap": "8.0",
+                    "handicapOdds": "-140"
+                  },
+                  {
+                    "handicap": "8.5",
+                    "handicapOdds": "-155"
+                  },
+                  {
+                    "handicap": "9.0",
+                    "handicapOdds": "-170"
+                  },
+                  {
+                    "handicap": "9.5",
+                    "handicapOdds": "-185"
+                  }
+                ]
+              },
+              {
+                "lineID": "1016240",
+                "lineType": "9",
+                "isLineActive": "false",
+                "odds": "-105",
+                "pointSpreadValue": "7.5",
+                "alternateLineID": "0",
+                "handicapPrice": [
+                  {
+                    "handicap": "8.0",
+                    "handicapOdds": "-115"
+                  },
+                  {
+                    "handicap": "8.5",
+                    "handicapOdds": "-125"
+                  },
+                  {
+                    "handicap": "9.0",
+                    "handicapOdds": "-140"
+                  },
+                  {
+                    "handicap": "9.5",
+                    "handicapOdds": "-155"
+                  },
+                  {
+                    "handicap": "10.0",
+                    "handicapOdds": "-170"
+                  },
+                  {
+                    "handicap": "10.5",
+                    "handicapOdds": "-185"
+                  }
+                ]
+              },
+              {
+                "lineID": "1016236",
+                "lineType": "9",
+                "isLineActive": "false",
+                "odds": "-105",
+                "pointSpreadValue": "4.5",
+                "alternateLineID": "0",
+                "handicapPrice": [
+                  {
+                    "handicap": "5.0",
+                    "handicapOdds": "-115"
+                  },
+                  {
+                    "handicap": "5.5",
+                    "handicapOdds": "-125"
+                  },
+                  {
+                    "handicap": "6.0",
+                    "handicapOdds": "-140"
+                  },
+                  {
+                    "handicap": "6.5",
+                    "handicapOdds": "-155"
+                  },
+                  {
+                    "handicap": "7.0",
+                    "handicapOdds": "-170"
+                  },
+                  {
+                    "handicap": "7.5",
+                    "handicapOdds": "-185"
+                  }
+                ]
+              },
+              {
+                "lineID": "1016238",
+                "lineType": "9",
+                "isLineActive": "false",
+                "odds": "-105",
+                "pointSpreadValue": "5.5",
+                "alternateLineID": "0",
+                "handicapPrice": [
+                  {
+                    "handicap": "6.0",
+                    "handicapOdds": "-115"
+                  },
+                  {
+                    "handicap": "6.5",
+                    "handicapOdds": "-125"
+                  },
+                  {
+                    "handicap": "7.0",
+                    "handicapOdds": "-140"
+                  },
+                  {
+                    "handicap": "7.5",
+                    "handicapOdds": "-155"
+                  },
+                  {
+                    "handicap": "8.0",
+                    "handicapOdds": "-170"
+                  },
+                  {
+                    "handicap": "8.5",
+                    "handicapOdds": "-185"
+                  }
+                ]
+              },
+              {
+                "lineID": "1016224",
+                "lineType": "9",
+                "isLineActive": "false",
+                "odds": "-105",
+                "pointSpreadValue": "3.5",
+                "alternateLineID": "0",
+                "handicapPrice": [
+                  {
+                    "handicap": "4.0",
+                    "handicapOdds": "-115"
+                  },
+                  {
+                    "handicap": "4.5",
+                    "handicapOdds": "-125"
+                  },
+                  {
+                    "handicap": "5.0",
+                    "handicapOdds": "-140"
+                  },
+                  {
+                    "handicap": "5.5",
+                    "handicapOdds": "-155"
+                  },
+                  {
+                    "handicap": "6.0",
+                    "handicapOdds": "-170"
+                  },
+                  {
+                    "handicap": "6.5",
+                    "handicapOdds": "-185"
+                  }
+                ]
+              },
+              {
+                "lineID": "1016156",
+                "lineType": "9",
+                "isLineActive": "false",
+                "odds": "-115",
+                "pointSpreadValue": "-3.5",
+                "alternateLineID": "0",
+                "handicapPrice": [
+                  {
+                    "handicap": "-3.0",
+                    "handicapOdds": "-125"
+                  },
+                  {
+                    "handicap": "-2.5",
+                    "handicapOdds": "-135"
+                  },
+                  {
+                    "handicap": "-2.0",
+                    "handicapOdds": "-150"
+                  },
+                  {
+                    "handicap": "-1.5",
+                    "handicapOdds": "-165"
+                  },
+                  {
+                    "handicap": "-1.0",
+                    "handicapOdds": "-180"
+                  },
+                  {
+                    "handicap": "-0.5",
+                    "handicapOdds": "-195"
+                  }
+                ]
+              },
+              {
+                "lineID": "1016140",
+                "lineType": "9",
+                "isLineActive": "false",
+                "odds": "-110",
+                "pointSpreadValue": "2.5",
+                "alternateLineID": "0",
+                "handicapPrice": [
+                  {
+                    "handicap": "3.0",
+                    "handicapOdds": "-120"
+                  },
+                  {
+                    "handicap": "3.5",
+                    "handicapOdds": "-130"
+                  },
+                  {
+                    "handicap": "4.0",
+                    "handicapOdds": "-145"
+                  },
+                  {
+                    "handicap": "4.5",
+                    "handicapOdds": "-160"
+                  },
+                  {
+                    "handicap": "5.0",
+                    "handicapOdds": "-175"
+                  },
+                  {
+                    "handicap": "5.5",
+                    "handicapOdds": "-190"
+                  }
+                ]
+              },
+              {
+                "lineID": "1016136",
+                "lineType": "9",
+                "isLineActive": "false",
+                "odds": "-115",
+                "pointSpreadValue": "-2.5",
+                "alternateLineID": "0",
+                "handicapPrice": [
+                  {
+                    "handicap": "-2.0",
+                    "handicapOdds": "-125"
+                  },
+                  {
+                    "handicap": "-1.5",
+                    "handicapOdds": "-135"
+                  },
+                  {
+                    "handicap": "-1.0",
+                    "handicapOdds": "-150"
+                  },
+                  {
+                    "handicap": "-0.5",
+                    "handicapOdds": "-165"
+                  },
+                  {
+                    "handicap": "0.0",
+                    "handicapOdds": "-180"
+                  },
+                  {
+                    "handicap": "0.5",
+                    "handicapOdds": "-195"
+                  }
+                ]
+              },
+              {
+                "lineID": "1016134",
+                "lineType": "9",
+                "isLineActive": "false",
+                "odds": "-115",
+                "pointSpreadValue": "-1.5",
+                "alternateLineID": "0",
+                "handicapPrice": [
+                  {
+                    "handicap": "-1.0",
+                    "handicapOdds": "-125"
+                  },
+                  {
+                    "handicap": "-0.5",
+                    "handicapOdds": "-135"
+                  },
+                  {
+                    "handicap": "0.0",
+                    "handicapOdds": "-150"
+                  },
+                  {
+                    "handicap": "0.5",
+                    "handicapOdds": "-165"
+                  },
+                  {
+                    "handicap": "1.0",
+                    "handicapOdds": "-180"
+                  },
+                  {
+                    "handicap": "1.5",
+                    "handicapOdds": "-195"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "lines": [
+          {
+            "lineID": "576578",
+            "lineType": "2",
+            "isLineActive": "false",
+            "odds": "-120",
+            "overLineValue": "158.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "158.0",
+                "handicapOdds": "-130"
+              },
+              {
+                "handicap": "157.5",
+                "handicapOdds": "-140"
+              },
+              {
+                "handicap": "157.0",
+                "handicapOdds": "-155"
+              },
+              {
+                "handicap": "156.5",
+                "handicapOdds": "-170"
+              },
+              {
+                "handicap": "156.0",
+                "handicapOdds": "-185"
+              },
+              {
+                "handicap": "155.5",
+                "handicapOdds": "-200"
+              }
+            ]
+          },
+          {
+            "lineID": "576569",
+            "lineType": "2",
+            "isLineActive": "false",
+            "odds": "-115",
+            "overLineValue": "154.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "154.0",
+                "handicapOdds": "-125"
+              },
+              {
+                "handicap": "153.5",
+                "handicapOdds": "-135"
+              },
+              {
+                "handicap": "153.0",
+                "handicapOdds": "-150"
+              },
+              {
+                "handicap": "152.5",
+                "handicapOdds": "-165"
+              },
+              {
+                "handicap": "152.0",
+                "handicapOdds": "-180"
+              },
+              {
+                "handicap": "151.5",
+                "handicapOdds": "-195"
+              }
+            ]
+          },
+          {
+            "lineID": "576576",
+            "lineType": "2",
+            "isLineActive": "false",
+            "odds": "-120",
+            "overLineValue": "157.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "157.0",
+                "handicapOdds": "-130"
+              },
+              {
+                "handicap": "156.5",
+                "handicapOdds": "-140"
+              },
+              {
+                "handicap": "156.0",
+                "handicapOdds": "-155"
+              },
+              {
+                "handicap": "155.5",
+                "handicapOdds": "-170"
+              },
+              {
+                "handicap": "155.0",
+                "handicapOdds": "-185"
+              },
+              {
+                "handicap": "154.5",
+                "handicapOdds": "-200"
+              }
+            ]
+          },
+          {
+            "lineID": "576565",
+            "lineType": "2",
+            "isLineActive": "false",
+            "odds": "-130",
+            "overLineValue": "155.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "155.0",
+                "handicapOdds": "-140"
+              },
+              {
+                "handicap": "154.5",
+                "handicapOdds": "-150"
+              },
+              {
+                "handicap": "154.0",
+                "handicapOdds": "-165"
+              },
+              {
+                "handicap": "153.5",
+                "handicapOdds": "-180"
+              },
+              {
+                "handicap": "153.0",
+                "handicapOdds": "-195"
+              },
+              {
+                "handicap": "152.5",
+                "handicapOdds": "-210"
+              }
+            ]
+          },
+          {
+            "lineID": "576563",
+            "lineType": "2",
+            "isLineActive": "false",
+            "odds": "-115",
+            "overLineValue": "156.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "156.0",
+                "handicapOdds": "-125"
+              },
+              {
+                "handicap": "155.5",
+                "handicapOdds": "-135"
+              },
+              {
+                "handicap": "155.0",
+                "handicapOdds": "-150"
+              },
+              {
+                "handicap": "154.5",
+                "handicapOdds": "-165"
+              },
+              {
+                "handicap": "154.0",
+                "handicapOdds": "-180"
+              },
+              {
+                "handicap": "153.5",
+                "handicapOdds": "-195"
+              }
+            ]
+          },
+          {
+            "lineID": "576450",
+            "lineType": "2",
+            "isLineActive": "false",
+            "odds": "-125",
+            "overLineValue": "142.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "142.0",
+                "handicapOdds": "-135"
+              },
+              {
+                "handicap": "141.5",
+                "handicapOdds": "-145"
+              },
+              {
+                "handicap": "141.0",
+                "handicapOdds": "-160"
+              },
+              {
+                "handicap": "140.5",
+                "handicapOdds": "-175"
+              },
+              {
+                "handicap": "140.0",
+                "handicapOdds": "-190"
+              },
+              {
+                "handicap": "139.5",
+                "handicapOdds": "-205"
+              }
+            ]
+          },
+          {
+            "lineID": "576449",
+            "lineType": "2",
+            "isLineActive": "false",
+            "odds": "-125",
+            "overLineValue": "143.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "143.0",
+                "handicapOdds": "-135"
+              },
+              {
+                "handicap": "142.5",
+                "handicapOdds": "-145"
+              },
+              {
+                "handicap": "142.0",
+                "handicapOdds": "-160"
+              },
+              {
+                "handicap": "141.5",
+                "handicapOdds": "-175"
+              },
+              {
+                "handicap": "141.0",
+                "handicapOdds": "-190"
+              },
+              {
+                "handicap": "140.5",
+                "handicapOdds": "-205"
+              }
+            ]
+          },
+          {
+            "lineID": "576445",
+            "lineType": "2",
+            "isLineActive": "false",
+            "odds": "-120",
+            "overLineValue": "144.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "144.0",
+                "handicapOdds": "-130"
+              },
+              {
+                "handicap": "143.5",
+                "handicapOdds": "-140"
+              },
+              {
+                "handicap": "143.0",
+                "handicapOdds": "-155"
+              },
+              {
+                "handicap": "142.5",
+                "handicapOdds": "-170"
+              },
+              {
+                "handicap": "142.0",
+                "handicapOdds": "-185"
+              },
+              {
+                "handicap": "141.5",
+                "handicapOdds": "-200"
+              }
+            ]
+          },
+          {
+            "lineID": "576443",
+            "lineType": "2",
+            "isLineActive": "false",
+            "odds": "-120",
+            "overLineValue": "145.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "145.0",
+                "handicapOdds": "-130"
+              },
+              {
+                "handicap": "144.5",
+                "handicapOdds": "-140"
+              },
+              {
+                "handicap": "144.0",
+                "handicapOdds": "-155"
+              },
+              {
+                "handicap": "143.5",
+                "handicapOdds": "-170"
+              },
+              {
+                "handicap": "143.0",
+                "handicapOdds": "-185"
+              },
+              {
+                "handicap": "142.5",
+                "handicapOdds": "-200"
+              }
+            ]
+          },
+          {
+            "lineID": "576440",
+            "lineType": "2",
+            "isLineActive": "false",
+            "odds": "-120",
+            "overLineValue": "146.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "146.0",
+                "handicapOdds": "-130"
+              },
+              {
+                "handicap": "145.5",
+                "handicapOdds": "-140"
+              },
+              {
+                "handicap": "145.0",
+                "handicapOdds": "-155"
+              },
+              {
+                "handicap": "144.5",
+                "handicapOdds": "-170"
+              },
+              {
+                "handicap": "144.0",
+                "handicapOdds": "-185"
+              },
+              {
+                "handicap": "143.5",
+                "handicapOdds": "-200"
+              }
+            ]
+          },
+          {
+            "lineID": "576438",
+            "lineType": "2",
+            "isLineActive": "false",
+            "odds": "-120",
+            "overLineValue": "147.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "147.0",
+                "handicapOdds": "-130"
+              },
+              {
+                "handicap": "146.5",
+                "handicapOdds": "-140"
+              },
+              {
+                "handicap": "146.0",
+                "handicapOdds": "-155"
+              },
+              {
+                "handicap": "145.5",
+                "handicapOdds": "-170"
+              },
+              {
+                "handicap": "145.0",
+                "handicapOdds": "-185"
+              },
+              {
+                "handicap": "144.5",
+                "handicapOdds": "-200"
+              }
+            ]
+          },
+          {
+            "lineID": "576433",
+            "lineType": "2",
+            "isLineActive": "false",
+            "odds": "-125",
+            "overLineValue": "153.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "153.0",
+                "handicapOdds": "-135"
+              },
+              {
+                "handicap": "152.5",
+                "handicapOdds": "-145"
+              },
+              {
+                "handicap": "152.0",
+                "handicapOdds": "-160"
+              },
+              {
+                "handicap": "151.5",
+                "handicapOdds": "-175"
+              },
+              {
+                "handicap": "151.0",
+                "handicapOdds": "-190"
+              },
+              {
+                "handicap": "150.5",
+                "handicapOdds": "-205"
+              }
+            ]
+          },
+          {
+            "lineID": "576428",
+            "lineType": "2",
+            "isLineActive": "false",
+            "odds": "-115",
+            "overLineValue": "152.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "152.0",
+                "handicapOdds": "-125"
+              },
+              {
+                "handicap": "151.5",
+                "handicapOdds": "-135"
+              },
+              {
+                "handicap": "151.0",
+                "handicapOdds": "-150"
+              },
+              {
+                "handicap": "150.5",
+                "handicapOdds": "-165"
+              },
+              {
+                "handicap": "150.0",
+                "handicapOdds": "-180"
+              },
+              {
+                "handicap": "149.5",
+                "handicapOdds": "-195"
+              }
+            ]
+          },
+          {
+            "lineID": "576426",
+            "lineType": "2",
+            "isLineActive": "false",
+            "odds": "-125",
+            "overLineValue": "150.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "150.0",
+                "handicapOdds": "-135"
+              },
+              {
+                "handicap": "149.5",
+                "handicapOdds": "-145"
+              },
+              {
+                "handicap": "149.0",
+                "handicapOdds": "-160"
+              },
+              {
+                "handicap": "148.5",
+                "handicapOdds": "-175"
+              },
+              {
+                "handicap": "148.0",
+                "handicapOdds": "-190"
+              },
+              {
+                "handicap": "147.5",
+                "handicapOdds": "-205"
+              }
+            ]
+          },
+          {
+            "lineID": "576424",
+            "lineType": "2",
+            "isLineActive": "false",
+            "odds": "-120",
+            "overLineValue": "151.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "151.0",
+                "handicapOdds": "-130"
+              },
+              {
+                "handicap": "150.5",
+                "handicapOdds": "-140"
+              },
+              {
+                "handicap": "150.0",
+                "handicapOdds": "-155"
+              },
+              {
+                "handicap": "149.5",
+                "handicapOdds": "-170"
+              },
+              {
+                "handicap": "149.0",
+                "handicapOdds": "-185"
+              },
+              {
+                "handicap": "148.5",
+                "handicapOdds": "-200"
+              }
+            ]
+          },
+          {
+            "lineID": "576423",
+            "lineType": "2",
+            "isLineActive": "false",
+            "odds": "-125",
+            "overLineValue": "149.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "149.0",
+                "handicapOdds": "-135"
+              },
+              {
+                "handicap": "148.5",
+                "handicapOdds": "-145"
+              },
+              {
+                "handicap": "148.0",
+                "handicapOdds": "-160"
+              },
+              {
+                "handicap": "147.5",
+                "handicapOdds": "-175"
+              },
+              {
+                "handicap": "147.0",
+                "handicapOdds": "-190"
+              },
+              {
+                "handicap": "146.5",
+                "handicapOdds": "-205"
+              }
+            ]
+          },
+          {
+            "lineID": "576421",
+            "lineType": "2",
+            "isLineActive": "false",
+            "odds": "-120",
+            "overLineValue": "148.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "148.0",
+                "handicapOdds": "-130"
+              },
+              {
+                "handicap": "147.5",
+                "handicapOdds": "-140"
+              },
+              {
+                "handicap": "147.0",
+                "handicapOdds": "-155"
+              },
+              {
+                "handicap": "146.5",
+                "handicapOdds": "-170"
+              },
+              {
+                "handicap": "146.0",
+                "handicapOdds": "-185"
+              },
+              {
+                "handicap": "145.5",
+                "handicapOdds": "-200"
+              }
+            ]
+          },
+          {
+            "lineID": "576320",
+            "lineType": "3",
+            "isLineActive": "false",
+            "odds": "-120",
+            "underLineValue": "158.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "159.0",
+                "handicapOdds": "-130"
+              },
+              {
+                "handicap": "159.5",
+                "handicapOdds": "-140"
+              },
+              {
+                "handicap": "160.0",
+                "handicapOdds": "-155"
+              },
+              {
+                "handicap": "160.5",
+                "handicapOdds": "-170"
+              },
+              {
+                "handicap": "161.0",
+                "handicapOdds": "-185"
+              },
+              {
+                "handicap": "161.5",
+                "handicapOdds": "-200"
+              }
+            ]
+          },
+          {
+            "lineID": "576318",
+            "lineType": "3",
+            "isLineActive": "false",
+            "odds": "-120",
+            "underLineValue": "157.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "158.0",
+                "handicapOdds": "-130"
+              },
+              {
+                "handicap": "158.5",
+                "handicapOdds": "-140"
+              },
+              {
+                "handicap": "159.0",
+                "handicapOdds": "-155"
+              },
+              {
+                "handicap": "159.5",
+                "handicapOdds": "-170"
+              },
+              {
+                "handicap": "160.0",
+                "handicapOdds": "-185"
+              },
+              {
+                "handicap": "160.5",
+                "handicapOdds": "-200"
+              }
+            ]
+          },
+          {
+            "lineID": "576163",
+            "lineType": "3",
+            "isLineActive": "false",
+            "odds": "-120",
+            "underLineValue": "148.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "149.0",
+                "handicapOdds": "-130"
+              },
+              {
+                "handicap": "149.5",
+                "handicapOdds": "-140"
+              },
+              {
+                "handicap": "150.0",
+                "handicapOdds": "-155"
+              },
+              {
+                "handicap": "150.5",
+                "handicapOdds": "-170"
+              },
+              {
+                "handicap": "151.0",
+                "handicapOdds": "-185"
+              },
+              {
+                "handicap": "151.5",
+                "handicapOdds": "-200"
+              }
+            ]
+          },
+          {
+            "lineID": "576165",
+            "lineType": "3",
+            "isLineActive": "false",
+            "odds": "-115",
+            "underLineValue": "149.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "150.0",
+                "handicapOdds": "-125"
+              },
+              {
+                "handicap": "150.5",
+                "handicapOdds": "-135"
+              },
+              {
+                "handicap": "151.0",
+                "handicapOdds": "-150"
+              },
+              {
+                "handicap": "151.5",
+                "handicapOdds": "-165"
+              },
+              {
+                "handicap": "152.0",
+                "handicapOdds": "-180"
+              },
+              {
+                "handicap": "152.5",
+                "handicapOdds": "-195"
+              }
+            ]
+          },
+          {
+            "lineID": "576311",
+            "lineType": "3",
+            "isLineActive": "false",
+            "odds": "-125",
+            "underLineValue": "154.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "155.0",
+                "handicapOdds": "-135"
+              },
+              {
+                "handicap": "155.5",
+                "handicapOdds": "-145"
+              },
+              {
+                "handicap": "156.0",
+                "handicapOdds": "-160"
+              },
+              {
+                "handicap": "156.5",
+                "handicapOdds": "-175"
+              },
+              {
+                "handicap": "157.0",
+                "handicapOdds": "-190"
+              },
+              {
+                "handicap": "157.5",
+                "handicapOdds": "-205"
+              }
+            ]
+          },
+          {
+            "lineID": "576307",
+            "lineType": "3",
+            "isLineActive": "false",
+            "odds": "-110",
+            "underLineValue": "155.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "156.0",
+                "handicapOdds": "-120"
+              },
+              {
+                "handicap": "156.5",
+                "handicapOdds": "-130"
+              },
+              {
+                "handicap": "157.0",
+                "handicapOdds": "-145"
+              },
+              {
+                "handicap": "157.5",
+                "handicapOdds": "-160"
+              },
+              {
+                "handicap": "158.0",
+                "handicapOdds": "-175"
+              },
+              {
+                "handicap": "158.5",
+                "handicapOdds": "-190"
+              }
+            ]
+          },
+          {
+            "lineID": "576305",
+            "lineType": "3",
+            "isLineActive": "false",
+            "odds": "-125",
+            "underLineValue": "156.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "157.0",
+                "handicapOdds": "-135"
+              },
+              {
+                "handicap": "157.5",
+                "handicapOdds": "-145"
+              },
+              {
+                "handicap": "158.0",
+                "handicapOdds": "-160"
+              },
+              {
+                "handicap": "158.5",
+                "handicapOdds": "-175"
+              },
+              {
+                "handicap": "159.0",
+                "handicapOdds": "-190"
+              },
+              {
+                "handicap": "159.5",
+                "handicapOdds": "-205"
+              }
+            ]
+          },
+          {
+            "lineID": "576192",
+            "lineType": "3",
+            "isLineActive": "false",
+            "odds": "-115",
+            "underLineValue": "142.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "143.0",
+                "handicapOdds": "-125"
+              },
+              {
+                "handicap": "143.5",
+                "handicapOdds": "-135"
+              },
+              {
+                "handicap": "144.0",
+                "handicapOdds": "-150"
+              },
+              {
+                "handicap": "144.5",
+                "handicapOdds": "-165"
+              },
+              {
+                "handicap": "145.0",
+                "handicapOdds": "-180"
+              },
+              {
+                "handicap": "145.5",
+                "handicapOdds": "-195"
+              }
+            ]
+          },
+          {
+            "lineID": "576191",
+            "lineType": "3",
+            "isLineActive": "false",
+            "odds": "-115",
+            "underLineValue": "143.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "144.0",
+                "handicapOdds": "-125"
+              },
+              {
+                "handicap": "144.5",
+                "handicapOdds": "-135"
+              },
+              {
+                "handicap": "145.0",
+                "handicapOdds": "-150"
+              },
+              {
+                "handicap": "145.5",
+                "handicapOdds": "-165"
+              },
+              {
+                "handicap": "146.0",
+                "handicapOdds": "-180"
+              },
+              {
+                "handicap": "146.5",
+                "handicapOdds": "-195"
+              }
+            ]
+          },
+          {
+            "lineID": "576187",
+            "lineType": "3",
+            "isLineActive": "false",
+            "odds": "-120",
+            "underLineValue": "144.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "145.0",
+                "handicapOdds": "-130"
+              },
+              {
+                "handicap": "145.5",
+                "handicapOdds": "-140"
+              },
+              {
+                "handicap": "146.0",
+                "handicapOdds": "-155"
+              },
+              {
+                "handicap": "146.5",
+                "handicapOdds": "-170"
+              },
+              {
+                "handicap": "147.0",
+                "handicapOdds": "-185"
+              },
+              {
+                "handicap": "147.5",
+                "handicapOdds": "-200"
+              }
+            ]
+          },
+          {
+            "lineID": "576185",
+            "lineType": "3",
+            "isLineActive": "false",
+            "odds": "-120",
+            "underLineValue": "145.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "146.0",
+                "handicapOdds": "-130"
+              },
+              {
+                "handicap": "146.5",
+                "handicapOdds": "-140"
+              },
+              {
+                "handicap": "147.0",
+                "handicapOdds": "-155"
+              },
+              {
+                "handicap": "147.5",
+                "handicapOdds": "-170"
+              },
+              {
+                "handicap": "148.0",
+                "handicapOdds": "-185"
+              },
+              {
+                "handicap": "148.5",
+                "handicapOdds": "-200"
+              }
+            ]
+          },
+          {
+            "lineID": "576182",
+            "lineType": "3",
+            "isLineActive": "false",
+            "odds": "-120",
+            "underLineValue": "146.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "147.0",
+                "handicapOdds": "-130"
+              },
+              {
+                "handicap": "147.5",
+                "handicapOdds": "-140"
+              },
+              {
+                "handicap": "148.0",
+                "handicapOdds": "-155"
+              },
+              {
+                "handicap": "148.5",
+                "handicapOdds": "-170"
+              },
+              {
+                "handicap": "149.0",
+                "handicapOdds": "-185"
+              },
+              {
+                "handicap": "149.5",
+                "handicapOdds": "-200"
+              }
+            ]
+          },
+          {
+            "lineID": "576180",
+            "lineType": "3",
+            "isLineActive": "false",
+            "odds": "-120",
+            "underLineValue": "147.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "148.0",
+                "handicapOdds": "-130"
+              },
+              {
+                "handicap": "148.5",
+                "handicapOdds": "-140"
+              },
+              {
+                "handicap": "149.0",
+                "handicapOdds": "-155"
+              },
+              {
+                "handicap": "149.5",
+                "handicapOdds": "-170"
+              },
+              {
+                "handicap": "150.0",
+                "handicapOdds": "-185"
+              },
+              {
+                "handicap": "150.5",
+                "handicapOdds": "-200"
+              }
+            ]
+          },
+          {
+            "lineID": "576175",
+            "lineType": "3",
+            "isLineActive": "false",
+            "odds": "-115",
+            "underLineValue": "153.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "154.0",
+                "handicapOdds": "-125"
+              },
+              {
+                "handicap": "154.5",
+                "handicapOdds": "-135"
+              },
+              {
+                "handicap": "155.0",
+                "handicapOdds": "-150"
+              },
+              {
+                "handicap": "155.5",
+                "handicapOdds": "-165"
+              },
+              {
+                "handicap": "156.0",
+                "handicapOdds": "-180"
+              },
+              {
+                "handicap": "156.5",
+                "handicapOdds": "-195"
+              }
+            ]
+          },
+          {
+            "lineID": "576170",
+            "lineType": "3",
+            "isLineActive": "false",
+            "odds": "-125",
+            "underLineValue": "152.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "153.0",
+                "handicapOdds": "-135"
+              },
+              {
+                "handicap": "153.5",
+                "handicapOdds": "-145"
+              },
+              {
+                "handicap": "154.0",
+                "handicapOdds": "-160"
+              },
+              {
+                "handicap": "154.5",
+                "handicapOdds": "-175"
+              },
+              {
+                "handicap": "155.0",
+                "handicapOdds": "-190"
+              },
+              {
+                "handicap": "155.5",
+                "handicapOdds": "-205"
+              }
+            ]
+          },
+          {
+            "lineID": "576168",
+            "lineType": "3",
+            "isLineActive": "false",
+            "odds": "-115",
+            "underLineValue": "150.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "151.0",
+                "handicapOdds": "-125"
+              },
+              {
+                "handicap": "151.5",
+                "handicapOdds": "-135"
+              },
+              {
+                "handicap": "152.0",
+                "handicapOdds": "-150"
+              },
+              {
+                "handicap": "152.5",
+                "handicapOdds": "-165"
+              },
+              {
+                "handicap": "153.0",
+                "handicapOdds": "-180"
+              },
+              {
+                "handicap": "153.5",
+                "handicapOdds": "-195"
+              }
+            ]
+          },
+          {
+            "lineID": "576166",
+            "lineType": "3",
+            "isLineActive": "false",
+            "odds": "-120",
+            "underLineValue": "151.5",
+            "alternateLineID": "0",
+            "handicapPrice": [
+              {
+                "handicap": "152.0",
+                "handicapOdds": "-130"
+              },
+              {
+                "handicap": "152.5",
+                "handicapOdds": "-140"
+              },
+              {
+                "handicap": "153.0",
+                "handicapOdds": "-155"
+              },
+              {
+                "handicap": "153.5",
+                "handicapOdds": "-170"
+              },
+              {
+                "handicap": "154.0",
+                "handicapOdds": "-185"
+              },
+              {
+                "handicap": "154.5",
+                "handicapOdds": "-200"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "eventID": "1124179",
+        "eventTitle": "Kansas City Chiefs at Los Angeles Chargers",
+        "eventStartDateTime": "2018-09-09T16:05:00-04:00",
+        "isCircled": "false",
+        "eventContestants": [
+          {
+            "contestantDisplayName": "Kansas City Chiefs",
+            "isHomeTeam": "false",
+            "rotationNumber": "9469"
+          },
+          {
+            "contestantDisplayName": "Los Angeles Chargers",
+            "isHomeTeam": "true",
+            "rotationNumber": "9470"
+          }
+        ]
+      },
+      {
+        "eventID": "1124180",
+        "eventTitle": "Seattle Seahawks at Denver Broncos",
+        "eventStartDateTime": "2018-09-09T16:25:00-04:00",
+        "isCircled": "false",
+        "eventContestants": [
+          {
+            "contestantDisplayName": "Seattle Seahawks",
+            "isHomeTeam": "false",
+            "rotationNumber": "9471"
+          },
+          {
+            "contestantDisplayName": "Denver Broncos",
+            "isHomeTeam": "true",
+            "rotationNumber": "9472"
+          }
+        ]
+      },
+      {
+        "eventID": "1124181",
+        "eventTitle": "Dallas Cowboys at Carolina Panthers",
+        "eventStartDateTime": "2018-09-09T16:25:00-04:00",
+        "isCircled": "false",
+        "eventContestants": [
+          {
+            "contestantDisplayName": "Dallas Cowboys",
+            "isHomeTeam": "false",
+            "rotationNumber": "9473"
+          },
+          {
+            "contestantDisplayName": "Carolina Panthers",
+            "isHomeTeam": "true",
+            "rotationNumber": "9474"
+          }
+        ]
+      },
+      {
+        "eventID": "1124182",
+        "eventTitle": "Washington Redskins at Arizona Cardinals",
+        "eventStartDateTime": "2018-09-09T16:25:00-04:00",
+        "isCircled": "false",
+        "eventContestants": [
+          {
+            "contestantDisplayName": "Washington Redskins",
+            "isHomeTeam": "false",
+            "rotationNumber": "9475"
+          },
+          {
+            "contestantDisplayName": "Arizona Cardinals",
+            "isHomeTeam": "true",
+            "rotationNumber": "9476"
+          }
+        ]
+      },
+      {
+        "eventID": "1124183",
+        "eventTitle": "Chicago Bears at Green Bay Packers",
+        "eventStartDateTime": "2018-09-09T20:20:00-04:00",
+        "isCircled": "false",
+        "eventContestants": [
+          {
+            "contestantDisplayName": "Chicago Bears",
+            "isHomeTeam": "false",
+            "rotationNumber": "9477"
+          },
+          {
+            "contestantDisplayName": "Green Bay Packers",
+            "isHomeTeam": "true",
+            "rotationNumber": "9478"
+          }
+        ]
+      },
+      {
+        "eventID": "1124184",
+        "eventTitle": "New York Jets at Detroit Lions",
+        "eventStartDateTime": "2018-09-10T19:10:00-04:00",
+        "isCircled": "false",
+        "eventContestants": [
+          {
+            "contestantDisplayName": "New York Jets",
+            "isHomeTeam": "false",
+            "rotationNumber": "9479"
+          },
+          {
+            "contestantDisplayName": "Detroit Lions",
+            "isHomeTeam": "true",
+            "rotationNumber": "9480"
+          }
+        ]
+      },
+      {
+        "eventID": "1124185",
+        "eventTitle": "Los Angeles Rams at Oakland Raiders",
+        "eventStartDateTime": "2018-09-10T22:20:00-04:00",
+        "isCircled": "false",
+        "eventContestants": [
+          {
+            "contestantDisplayName": "Los Angeles Rams",
+            "isHomeTeam": "false",
+            "rotationNumber": "9481"
+          },
+          {
+            "contestantDisplayName": "Oakland Raiders",
+            "isHomeTeam": "true",
+            "rotationNumber": "9482"
+          }
+        ]
+      }
+    ]
+  }
+]
