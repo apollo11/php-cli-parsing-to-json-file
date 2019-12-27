@@ -5,13 +5,13 @@
  * Date: 11/6/18
  * Time: 7:03 PM
  */
-namespace TopBetApp\cli;
+namespace App\cli;
 require_once __DIR__ . '/../../vendor/autoload.php';
 
-use TopBetApp\functions\ReturnLogs;
-use TopBetApp\functions\JsonValidation;
-use TopBetApp\functions\OutputToJsonFile;
-use TopBetApp\main\UpcomingEvent\UpcomingEventController as UpcomingEvent;
+use App\functions\ReturnLogs;
+use App\functions\JsonValidation;
+use App\functions\OutputToJsonFile;
+use App\main\UpcomingEvent\UpcomingEventController as UpcomingEvent;
 
 class GetUpcomingEventsCli
 {

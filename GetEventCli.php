@@ -1,12 +1,12 @@
 <?php
-namespace TopBetApp\cli;
+namespace App\cli;
 require_once __DIR__ . '/../../vendor/autoload.php';
 
-use TopBetApp\functions\ReturnLogs;
-use TopBetApp\functions\JsonValidation;
-use TopBetApp\functions\OutputToJsonFile;
-use TopBetApp\main\LiveBetting\LiveBettingController as LiveEvent;
-use TopBetApp\cli\GetEventDetailsCli as Details;
+use App\functions\ReturnLogs;
+use App\functions\JsonValidation;
+use App\functions\OutputToJsonFile;
+use App\main\LiveBetting\LiveBettingController as LiveEvent;
+use App\cli\GetEventDetailsCli as Details;
 
 class GetEventCli
 {

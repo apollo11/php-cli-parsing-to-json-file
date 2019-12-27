@@ -1,11 +1,11 @@
 <?php
-namespace TopBetApp\cli;
+namespace App\cli;
 require_once __DIR__ . '/../../vendor/autoload.php';
 
-use TopBetApp\functions\ReturnLogs;
-use TopBetApp\functions\JsonValidation;
-use TopBetApp\functions\OutputToJsonFile;
-use TopBetApp\main\GetParlayChallenges\GetParlayChallengesController as Parlay;
+use App\functions\ReturnLogs;
+use App\functions\JsonValidation;
+use App\functions\OutputToJsonFile;
+use App\main\GetParlayChallenges\GetParlayChallengesController as Parlay;
 
 class GetParlayChallengerCli
 {

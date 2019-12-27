@@ -1,12 +1,12 @@
 <?php
-namespace TopBetApp\cli;
+namespace App\cli;
 require_once __DIR__ . '/../../vendor/autoload.php';
 
-use TopBetApp\functions\ReturnLogs;
-use TopBetApp\functions\JsonValidation;
-use TopBetApp\functions\OutputToJsonFile;
-use TopBetApp\main\GameLines\GameLinesController as GameLines;
-use TopBetApp\main\GetFeaturedEvent\GetFeaturedEventController as Featured;
+use App\functions\ReturnLogs;
+use App\functions\JsonValidation;
+use App\functions\OutputToJsonFile;
+use App\main\GameLines\GameLinesController as GameLines;
+use App\main\GetFeaturedEvent\GetFeaturedEventController as Featured;
 
 class GetGameLinesCli
 {

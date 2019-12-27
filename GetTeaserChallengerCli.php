@@ -5,13 +5,13 @@
  * Date: 4/20/18
  * Time: 3:39 PM
  */
-namespace TopBetApp\cli;
+namespace App\cli;
 require_once __DIR__ . '/../../vendor/autoload.php';
 
-use TopBetApp\functions\ReturnLogs;
-use TopBetApp\functions\JsonValidation;
-use TopBetApp\functions\OutputToJsonFile;
-use TopBetApp\main\TeaserChallenge\TeaserChallengeController as Teaser;
+use App\functions\ReturnLogs;
+use App\functions\JsonValidation;
+use App\functions\OutputToJsonFile;
+use App\main\TeaserChallenge\TeaserChallengeController as Teaser;
 
 class GetTeaserChallengerCli
 {

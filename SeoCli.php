@@ -5,11 +5,11 @@
  * Date: 12/17/18
  * Time: 3:56 PM
  */
-namespace TopBetApp\cli;
+namespace App\cli;
 require_once __DIR__ . '/../../vendor/autoload.php';
 
-use TopBetApp\functions\ReturnLogs;
-use TopBetApp\main\Seo\SeoController;
+use App\functions\ReturnLogs;
+use App\main\Seo\SeoController;
 
 class SeoCli
 {
